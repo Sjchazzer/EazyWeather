@@ -1,0 +1,2 @@
+# EazyWeather
+cool weather website 
